@@ -8,7 +8,7 @@
 
 **ProVoice** is a `Voice Analyizer` and is `Mimicer` the same voice of character in that `VIDEO`. in a video with `auto-dubbed` (feature in `YouTube` implemented by `Google`). to native language. but, voice exact Machine like. 
 i am uncomfortible with that. so, i create this AiSoftware. 
-that auto-dubbed in real world exact voice within character in the video. but, highly safe, and secure voice dubbing in native communications.
+this auto-dubbed in real world exact voice within character in the video. and highly safe, and secure voice dubbing in native communications. and is make life easier. when we watching an video with auto-dubbed.
 
 NoLong MachineVoice like AutoDubbing :-
 --------------------------------------
