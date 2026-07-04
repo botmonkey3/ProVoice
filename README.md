@@ -1,4 +1,4 @@
-# ProVoice - AI Native Voice Mimicer. in Native Language.
+# ProVoice - `Voice Mimicer` in native language and slang.
 
 <p align="center">
     <picture>
@@ -12,7 +12,7 @@ NoLong MachineVoice like AutoDubbing :-
 --------------------------------------
 
 * Is Makes Life easier. with real communcation.
-* this feacture more useful native voice communication with Natural Language Processing by specified Language.
+* this feature more useful native voice communication with Natural Language Processing by specified Language.
 
 ***Danger*** with this feature :-
 ==================================
